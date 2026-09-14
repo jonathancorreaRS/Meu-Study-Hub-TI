@@ -46,4 +46,4 @@ Atualmente, fazem parte do meu Study Hub as seguintes disciplinas:
 Esta pasta será atualizada durante o semestre conforme novas atividades, trabalhos, anotações e projetos forem desenvolvidos.
     ├── README.md
     ├── Atividades_e_Entregas/
-    └── Anotacoes_e_Resumos/
+    └── Anotacoes_e_Resumos/  
