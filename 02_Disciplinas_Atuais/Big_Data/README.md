@@ -1,24 +1,49 @@
 # 🗃️ Big Data
 
-> Espaço destinado à organização dos conteúdos, atividades e estudos da disciplina de Big Data.
+## 📚 Sobre a disciplina
 
----
+Espaço destinado à organização dos conteúdos, atividades, anotações, resumos e projetos relacionados à disciplina de Big Data.
 
 ## 🎯 Objetivo
 
-Esta pasta será utilizada para registrar os conteúdos, atividades, exercícios e trabalhos desenvolvidos durante a disciplina.
+Utilizar este espaço para acompanhar meu aprendizado na disciplina e registrar as atividades desenvolvidas ao longo do semestre.
 
-O objetivo é manter os materiais organizados e acompanhar minha evolução durante o semestre.
+## 📂 Organização
+
+### 📝 Atividades e Entregas
+
+Registro das atividades, trabalhos, exercícios e entregas realizadas durante a disciplina.
+
+👉 [Acessar Atividades e Entregas](./Atividades_e_Entregas/)
+
+### 📚 Anotações e Resumos
+
+Local destinado às anotações pessoais, resumos e conteúdos estudados.
+
+👉 [Acessar Anotações e Resumos](./Anotacoes_e_Resumos/)
+
+### 💻 Projetos
+
+Espaço destinado aos projetos e atividades práticas desenvolvidos durante a disciplina.
+
+👉 [Acessar Projetos](./Projetos/)
 
 ---
 
-## 📚 Organização
+## 📅 Acompanhamento
 
-```text
-Big_Data/
-│
-├── README.md
-│
-├── Atividades_e_Entregas/
-│
-└── Anotacoes_e_Resumos/
+| Área | Status |
+|---|---|
+| 📝 Atividades e Entregas | 🟢 Organizado |
+| 📚 Anotações e Resumos | 🟢 Organizado |
+| 💻 Projetos | 🟢 Organizado |
+
+---
+
+## 📝 Observações
+
+Este espaço será atualizado conforme novos conteúdos, atividades e projetos forem desenvolvidos durante o semestre.
+
+---
+
+> 🗃️ **Big Data — aprender, praticar e evoluir.**
