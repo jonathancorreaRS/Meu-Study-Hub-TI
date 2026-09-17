@@ -4,46 +4,70 @@
 
 Espaço destinado à organização dos conteúdos, atividades, anotações, resumos e projetos relacionados à disciplina de Big Data.
 
-## 🎯 Objetivo
+---
 
-Utilizar este espaço para acompanhar meu aprendizado na disciplina e registrar as atividades desenvolvidas ao longo do semestre.
+## 📖 Conteúdo estudado
 
-## 📂 Organização
+### SDD na Prática com o GitHub Spec Kit
 
-### 📝 Atividades e Entregas
+Material apresentado pelo Prof. Dan Lopes, do Centro Universitário de Brasília (CEUB), sobre a aplicação de **Spec-Driven Development (SDD)** utilizando o **GitHub Spec Kit** e o **GitHub Copilot**.
 
-Registro das atividades, trabalhos, exercícios e entregas realizadas durante a disciplina.
-
-👉 [Acessar Atividades e Entregas](./Atividades_e_Entregas/)
-
-### 📚 Anotações e Resumos
-
-Local destinado às anotações pessoais, resumos e conteúdos estudados.
-
-👉 [Acessar Anotações e Resumos](./Anotacoes_e_Resumos/)
-
-### 💻 Projetos
-
-Espaço destinado aos projetos e atividades práticas desenvolvidos durante a disciplina.
-
-👉 [Acessar Projetos](./Projetos/)
+O conteúdo apresenta uma abordagem de desenvolvimento na qual a especificação funciona como fonte da verdade, orientando a geração do código por meio de etapas estruturadas e com revisão humana. 
 
 ---
 
-## 📅 Acompanhamento
+## 🧠 Principais conceitos
 
-| Área | Status |
+### 🔹 SDD — Spec-Driven Development
+
+No SDD, a especificação define a intenção do projeto e orienta a implementação.
+
+O material apresenta a ideia:
+
+**Especificar → Planejar → Implementar → Validar**
+
+Cada etapa possui um momento de revisão humana.
+
+---
+
+## 🛠️ GitHub Spec Kit
+
+O GitHub Spec Kit é apresentado como um toolkit open-source que estrutura o desenvolvimento com IA em fases explícitas.
+
+Ele utiliza uma CLI e comandos específicos para organizar o processo de desenvolvimento.
+
+Os artefatos ficam versionados junto ao código dentro do repositório Git.
+
+---
+
+## 📄 Principais artefatos
+
+O processo apresentado utiliza documentos que orientam as diferentes etapas:
+
+| Artefato | Função |
 |---|---|
-| 📝 Atividades e Entregas | 🟢 Organizado |
-| 📚 Anotações e Resumos | 🟢 Organizado |
-| 💻 Projetos | 🟢 Organizado |
+| `constitution.md` | Define os princípios do projeto |
+| `spec.md` | Define a especificação funcional e os critérios de aceite |
+| `plan.md` | Define o plano técnico, arquitetura, dados e contratos |
+| `tasks.md` | Divide o projeto em tarefas menores e ordenáveis |
 
 ---
 
-## 📝 Observações
+## 🔄 Fluxo do Spec Kit
 
-Este espaço será atualizado conforme novos conteúdos, atividades e projetos forem desenvolvidos durante o semestre.
+O material apresenta a seguinte sequência:
 
----
-
-> 🗃️ **Big Data — aprender, praticar e evoluir.**
+```text
+/speckit.constitution
+        ↓
+/speckit.specify
+        ↓
+/speckit.clarify
+        ↓
+/speckit.plan
+        ↓
+/speckit.tasks
+        ↓
+/speckit.analyze
+        ↓
+/speckit.implement
