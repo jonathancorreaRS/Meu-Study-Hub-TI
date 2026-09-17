@@ -1,65 +1,59 @@
-# 👨‍💻 Apresentação e Perfil
+# 👨‍💻 Sobre mim
 
-> Informações sobre minha trajetória acadêmica, interesses profissionais e objetivos na área de Tecnologia da Informação.
+Olá! Meu nome é **Jonathan** e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
+
+Este espaço faz parte do meu **Study Hub**, criado para organizar minha trajetória acadêmica e profissional na área de Tecnologia da Informação.
+
+## 🎓 Formação
+
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+
+Meu objetivo durante a graduação é adquirir conhecimento, colocar o aprendizado em prática e desenvolver projetos que contribuam para minha evolução profissional.
+
+## 🧠 Áreas de interesse
+
+Atualmente, tenho interesse principalmente em:
+
+- 🐍 Python
+- 📊 Análise de Dados
+- 🤖 Inteligência Artificial
+- ⚙️ Automação de Processos
+- 📈 Power BI
+- 🗄️ Banco de Dados
+- 🌐 Desenvolvimento Web
+- 📱 Desenvolvimento Mobile
+
+## 📚 Meu Study Hub
+
+Este repositório é utilizado para organizar:
+
+- 📖 Anotações e resumos;
+- 📝 Atividades e entregas;
+- 💻 Projetos;
+- 🏆 Certificados;
+- 📚 Conteúdos das disciplinas;
+- 📈 Minha evolução acadêmica.
+
+## 🎯 Objetivos
+
+- Desenvolver meus conhecimentos em tecnologia;
+- Melhorar minhas habilidades de programação;
+- Aprender novas ferramentas e tecnologias;
+- Desenvolver projetos práticos;
+- Construir meu portfólio;
+- Evoluir profissionalmente na área de TI.
+
+## 📫 Contato
+
+💼 **LinkedIn:**  
+[Meu LinkedIn](https://www.linkedin.com/in/jonathan-undefined-aaa301342/)
+
+📧 **E-mail:**  
+jonathanrodcorrea@gmail.com
+
+🐙 **GitHub:**  
+[@JON4TH4NRSC](https://github.com/JON4TH4NRSC)
 
 ---
 
-## 👋 Sobre mim
-
-Olá! Meu nome é **Jonathan** e sou estudante de **Análise e Desenvolvimento de Sistemas**.
-
-Tenho interesse pela área de Tecnologia da Informação e busco desenvolver meus conhecimentos em programação, dados, Inteligência Artificial e automação de processos.
-
-Durante minha formação, pretendo desenvolver projetos práticos e utilizar os conhecimentos adquiridos para resolver problemas e criar soluções na área de tecnologia.
-
----
-
-## 🎯 Objetivo profissional
-
-Meu objetivo é continuar desenvolvendo meus conhecimentos e adquirir experiência na área de Tecnologia da Informação.
-
-Tenho interesse principalmente em:
-
-- 🐍 Python;
-- 📊 Análise de Dados;
-- 📈 Power BI;
-- 🤖 Inteligência Artificial;
-- ⚙️ Automação;
-- 🌐 Desenvolvimento Web;
-- 📱 Desenvolvimento Mobile.
-
----
-
-## 📚 Formação
-
-**Curso:** Análise e Desenvolvimento de Sistemas – ADS
-
-O Study Hub será utilizado para registrar minha evolução durante o curso, incluindo disciplinas, atividades, projetos e certificados.
-
----
-
-## 📂 Organização desta pasta
-
-```text
-01_Apresentacao_e_Perfil/
-│
-├── README.md
-├── Sobre_Mim/
-├── Curriculo/
-└── Contatos/
-
-📁 Sobre_Mim
-
-Espaço destinado a informações sobre minha trajetória, interesses e objetivos.
-
-📁 Curriculo
-
-Espaço destinado ao armazenamento e organização do meu currículo.
-
-📁 Contatos
-
-Espaço destinado às minhas informações profissionais e formas de contato.
-
-📈 Evolução
-
-Esta seção será atualizada conforme minha formação acadêmica e profissional avançar.
+> 🚀 **Em constante aprendizado e evolução na área de Tecnologia da Informação.**
