@@ -2,48 +2,48 @@
 
 ## 📚 Sobre a disciplina
 
-Espaço destinado à organização dos conteúdos, atividades, anotações, resumos e projetos relacionados à disciplina de Desenvolvimento Mobile.
+Esta pasta reúne os conteúdos, atividades, anotações, resumos e projetos relacionados à disciplina de **Desenvolvimento Mobile**.
 
-## 🎯 Objetivo
-
-Utilizar este espaço para acompanhar meu aprendizado na disciplina e registrar as atividades desenvolvidas ao longo do semestre.
-
-## 📂 Organização
-
-### 📝 Atividades e Entregas
-
-Registro das atividades, trabalhos, exercícios e entregas realizadas durante a disciplina.
-
-👉 [Acessar Atividades e Entregas](./Atividades_e_Entregas/)
-
-### 📚 Anotações e Resumos
-
-Local destinado às anotações pessoais, resumos e conteúdos estudados.
-
-👉 [Acessar Anotações e Resumos](./Anotacoes_e_Resumos/)
-
-### 💻 Projetos
-
-Espaço destinado aos projetos e atividades práticas desenvolvidos durante a disciplina.
-
-👉 [Acessar Projetos](./Projetos/)
+O primeiro material estudado aborda a execução de um projeto **Expo** em um celular **Android**, utilizando conexão por cabo USB e **ADB**.
 
 ---
 
-## 📅 Acompanhamento
+# 📌 Conteúdo estudado
 
-| Área | Status |
-|---|---|
-| 📝 Atividades e Entregas | 🟢 Organizado |
-| 📚 Anotações e Resumos | 🟢 Organizado |
-| 💻 Projetos | 🟢 Organizado |
+## 📱 Rodando um projeto Expo no celular Android
+
+O material apresenta o processo para executar um projeto Expo diretamente em um celular Android.
+
+A comunicação entre o computador e o celular pode ser realizada utilizando:
+
+- Cabo USB;
+- ADB;
+- Expo;
+- Metro Bundler.
 
 ---
 
-## 📝 Observações
+# 🔧 Configuração do celular
 
-Este espaço será atualizado conforme novos conteúdos, atividades e projetos forem desenvolvidos durante o semestre.
+Para executar o projeto utilizando cabo USB, é necessário ativar a **Depuração USB** no celular.
+
+O processo apresentado é:
+
+1. Abrir **Configurações**;
+2. Entrar em **Sobre o telefone**;
+3. Localizar **Número da versão**;
+4. Tocar aproximadamente 7 vezes em **Número da versão** para ativar o modo desenvolvedor;
+5. Voltar para as configurações;
+6. Entrar em **Opções do desenvolvedor**;
+7. Ativar **Depuração USB**.
 
 ---
 
-> 📱 **Desenvolvimento Mobile — aprender, praticar e evoluir.**
+# 🔌 Conexão utilizando ADB
+
+Depois de ativar a depuração USB, o celular deve ser conectado ao computador utilizando um cabo USB.
+
+Para verificar se o dispositivo foi reconhecido, é utilizado:
+
+```bash
+adb devices
