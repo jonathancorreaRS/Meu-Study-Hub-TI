@@ -8,7 +8,7 @@ Este espaço faz parte do meu **Study Hub**, criado para organizar minha trajet�
 
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 
-Meu objetivo durante a graduação é adquirir conhecimento, colocar o aprendizado em prática e desenvolver projetos que contribuam para minha evolução profissional.
+Meu objetivo é desenvolver meus conhecimentos em tecnologia, principalmente em Python, análise de dados, inteligência artificial e desenvolvimento de sistemas, colocando o aprendizado em prática por meio de projetos e experiências profissionais.
 
 ## 🧠 Áreas de interesse
 
