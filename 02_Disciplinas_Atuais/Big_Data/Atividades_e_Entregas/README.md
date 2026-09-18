@@ -1,23 +1,73 @@
-# 📝 Atividades e Entregas
+# 📝 Atividades e Entregas — Big Data
 
-Espaço destinado ao registro das atividades, trabalhos e entregas realizadas na disciplina de Big Data.
+## 📚 Sobre esta pasta
 
-## 📚 Atividades
+Esta pasta será utilizada para organizar as atividades, exercícios e entregas realizados na disciplina de **Big Data**.
 
-- Atividade 01
-- Atividade 02
-- Atividade 03
+O objetivo é manter os trabalhos organizados e facilitar o acompanhamento da evolução durante a disciplina.
 
-## 📦 Entregas
+---
 
-- Trabalhos acadêmicos
-- Exercícios
-- Projetos e atividades práticas
+## 📌 Disciplina
 
-## 📅 Acompanhamento
+**Disciplina:** Big Data  
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+
+---
+
+# 📂 Organização
+
+Nesta pasta poderão ser adicionados:
+
+- 📝 Atividades propostas pelo professor;
+- 📄 Trabalhos acadêmicos;
+- 💻 Exercícios práticos;
+- 📊 Atividades relacionadas a dados;
+- 📚 Trabalhos realizados durante as aulas;
+- 📦 Entregas da disciplina.
+
+---
+
+# 📋 Atividades
+
+| Atividade | Descrição | Status |
+|---|---|---|
+| SDD na Prática com GitHub Spec Kit | Atividade relacionada ao desenvolvimento orientado por especificação | ✅ Concluída |
+| — | — | ⏳ Pendente |
+
+---
+
+# 🧠 Conteúdos relacionados
+
+Entre os conteúdos estudados estão:
+
+- SDD — Spec-Driven Development;
+- GitHub Spec Kit;
+- Especificação;
+- Planejamento;
+- Implementação;
+- Validação;
+- GitHub Copilot;
+- Agentes de IA;
+- Revisão humana;
+- Artefatos de desenvolvimento.
+
+---
+
+# 📈 Acompanhamento
 
 | Atividade | Data | Status |
 |---|---|---|
-| Atividade 01 | — | ⏳ Pendente |
-| Atividade 02 | — | ⏳ Pendente |
-| Atividade 03 | — | ⏳ Pendente |
+| SDD na Prática com GitHub Spec Kit | 2026 | ✅ Concluída |
+
+---
+
+# 📌 Observações
+
+Esta pasta será atualizada conforme novas atividades e entregas forem realizadas durante a disciplina.
+
+---
+
+## 🚀 Objetivo
+
+Utilizar este espaço para manter minhas atividades de **Big Data** organizadas e acompanhar minha evolução ao longo da disciplina.
