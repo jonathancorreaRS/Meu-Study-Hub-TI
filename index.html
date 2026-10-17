@@ -1,0 +1,223 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfólio acadêmico de Jonathan, estudante de Análise e Desenvolvimento de Sistemas.">
+    <title>Meu Study Hub TI | Jonathan</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f9;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #173b67;
+            color: white;
+            text-align: center;
+            padding: 35px 20px;
+        }
+
+        header h1 {
+            margin-bottom: 8px;
+        }
+
+        nav {
+            background-color: #102b4c;
+            padding: 12px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 12px;
+            font-size: 15px;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            max-width: 1000px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+
+        section {
+            background-color: white;
+            padding: 25px;
+            margin-bottom: 22px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+        }
+
+        h2 {
+            color: #173b67;
+            margin-bottom: 15px;
+        }
+
+        .disciplinas {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .disciplina {
+            background-color: #eaf1f8;
+            padding: 18px;
+            border-left: 4px solid #2463a6;
+            border-radius: 5px;
+        }
+
+        .links a {
+            display: inline-block;
+            background-color: #173b67;
+            color: white;
+            text-decoration: none;
+            padding: 10px 16px;
+            border-radius: 5px;
+            margin: 5px 8px 5px 0;
+        }
+
+        .links a:hover {
+            background-color: #2463a6;
+        }
+
+        footer {
+            background-color: #102b4c;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 35px;
+        }
+
+        @media (max-width: 600px) {
+            nav a {
+                display: inline-block;
+                margin: 5px 8px;
+            }
+
+            main {
+                padding: 0 12px;
+            }
+
+            section {
+                padding: 18px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Meu Study Hub TI</h1>
+        <p>Meu espaço de estudos e projetos em tecnologia</p>
+    </header>
+
+    <nav>
+        <a href="#sobre">Sobre mim</a>
+        <a href="#disciplinas">Disciplinas</a>
+        <a href="#projetos">Projetos</a>
+        <a href="#contato">Contato</a>
+    </nav>
+
+    <main>
+        <section id="sobre">
+            <h2>Sobre mim</h2>
+            <p>
+                Olá! Meu nome é Jonathan e sou estudante de
+                Análise e Desenvolvimento de Sistemas.
+                Criei este espaço para organizar meus estudos,
+                registrar minha evolução acadêmica e apresentar
+                meus projetos na área de tecnologia.
+            </p>
+        </section>
+
+        <section id="disciplinas">
+            <h2>Minhas disciplinas</h2>
+
+            <div class="disciplinas">
+                <div class="disciplina">
+                    <h3>Desenvolvimento Mobile</h3>
+                    <p>Estudos sobre desenvolvimento de aplicações para dispositivos móveis.</p>
+                </div>
+
+                <div class="disciplina">
+                    <h3>Big Data</h3>
+                    <p>Estudos sobre dados e desenvolvimento orientado a especificações.</p>
+                </div>
+
+                <div class="disciplina">
+                    <h3>Empreendedorismo</h3>
+                    <p>Conceitos de inovação, oportunidades e planejamento de negócios.</p>
+                </div>
+
+                <div class="disciplina">
+                    <h3>Otimização Aplicada à Ciência de Dados</h3>
+                    <p>Estudos sobre ETL, análise de dados e problemas de otimização.</p>
+                </div>
+            </div>
+
+            <p style="margin-top: 15px;">
+                Consulte os materiais e anotações no
+                <a href="https://github.com/jonathancorreaRS/Meu-Study-Hub-TI">
+                    repositório Meu Study Hub TI
+                </a>.
+            </p>
+        </section>
+
+        <section id="projetos">
+            <h2>Meus projetos</h2>
+            <p>
+                Esta seção será utilizada para apresentar meus projetos
+                acadêmicos e pessoais, com suas descrições, tecnologias
+                utilizadas e links para os códigos.
+            </p>
+
+            <div class="links">
+                <a href="https://github.com/jonathancorreaRS/Meu-Study-Hub-TI">
+                    Ver meu repositório
+                </a>
+            </div>
+        </section>
+
+        <section id="contato">
+            <h2>Contato e redes profissionais</h2>
+            <p>Confira meus perfis profissionais:</p>
+
+            <div class="links">
+                <a href="https://github.com/JON4TH4NRSC" target="_blank" rel="noopener noreferrer">
+                    GitHub
+                </a>
+
+                <a href="https://www.linkedin.com/in/jonathan-undefined-aaa301342/" target="_blank" rel="noopener noreferrer">
+                    LinkedIn
+                </a>
+
+                <a href="mailto:jonathanrodcorrea@gmail.com">
+                    E-mail
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Jonathan | Meu Study Hub TI</p>
+        <p>Portfólio acadêmico de Análise e Desenvolvimento de Sistemas.</p>
+    </footer>
+
+</body>
+</html>
